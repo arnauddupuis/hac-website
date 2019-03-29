@@ -1,4 +1,4 @@
-# hac-website
+# hac-website - Hyrule Astronomy Club website
 
 ## Project setup
 ```

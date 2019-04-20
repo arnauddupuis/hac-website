@@ -4,7 +4,21 @@ module.exports = {
     head: [
       ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Material+Icons' }],
     ],
-    serviceWorker: true,
+    plugins: [
+      ['@vuepress/pwa', {
+         serviceWorker: true,
+         updatePopup: {
+           message: "New content is available.",
+           buttonText: "Refresh"
+         }
+       }
+      ],
+      ['container', {
+        type: 'theorem',
+        before: info => `<div class="theorem"><p class="title">${info}</p>`,
+        after: '</div>',
+      }],
+    ],
     themeConfig: {
       nav: [
         { text: 'Home 🚀', link: '/' },

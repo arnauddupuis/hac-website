@@ -10,8 +10,8 @@ home: true
 heroImage: /hero.png
 heroText: Hyrule Astronomy Club
 tagline: Home of curious kids from 6 to 40 years old!
-actionText: Lift off 🚀
-actionLink: /documentation/
+actionText: What's up 🗞
+actionLink: /news/
 features:
 - title: hac-game-lib
   details: A small game development framework for teaching programming to young kids.

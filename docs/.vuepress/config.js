@@ -3,6 +3,7 @@ module.exports = {
     description: 'Website currently in development',
     head: [
       ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Material+Icons' }],
+      ['link', { rel: 'icon', href: '/logo.png' }]
     ],
     plugins: [
       ['@vuepress/pwa', {

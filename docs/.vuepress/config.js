@@ -33,7 +33,8 @@ module.exports = {
             { text: 'Sources (GitHub)', link: 'https://github.com/arnauddupuis/hac-game-lib' }
           ]
         }
-      ]
+      ],
+      lastUpdated: 'Last Updated',
     },
     markdown: {
       toc: { includeLevel: [1, 2, 3] }

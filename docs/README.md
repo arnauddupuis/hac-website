@@ -9,7 +9,7 @@ meta:
 home: true
 heroImage: /hero.png
 heroText: Hyrule Astronomy Club
-tagline: Home of curious kids from 6 to 40 years old!
+tagline: Home of curious kids from 6 to 66+ years old!
 actionText: What's up 🗞
 actionLink: /news/
 features:

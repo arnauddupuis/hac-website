@@ -11,6 +11,7 @@ meta:
 # News :newspaper_roll:
 
 
-::: tip
-All blog posts will be hosted here.
-:::
+<div v-for="p in $site.pages.sort( function(a,b){(a.lastUpdated < b.lastUpdated) ? -1 : 1} )" class="theorem custom-block" v-if="p.path.includes('/news/') && p.path !== '/news/'">
+    <p class="custom-block-title"><a :href='p.path'>{{p.title}}</a></p>
+    <p>{{p.frontmatter.description}}</p>
+</div>

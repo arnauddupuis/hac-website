@@ -23,12 +23,19 @@ module.exports = {
     themeConfig: {
       nav: [
         { text: 'Home 🚀', link: '/' },
-        { text: 'Documentation 📚', link: '/documentation/' },
         { text: 'News 🗞', link: '/news/' },
+        { text: 'Guides 📚', link: '/guides/', 
+          items: [
+            {text: 'hac-game-lib', link: '/guides/hac-game-lib/' },
+            {text: 'Astronomy', link: '/guides/astronomy/' },
+            {text: 'Misc.', link: '/guides/misc/' },
+          ]
+        },
         {
           text: 'hac-game-lib',
           items: [
-            { text: 'Guides 📚', link: '/documentation/' },
+            { text: 'Introduction', link: '/hac-game-lib' },
+            { text: 'Guides 📚', link: '/guides/hac-game-lib/' },
             { text: 'Official documentation (ReadTheDocs)', link: 'https://hac-game-lib.readthedocs.io/en/latest/' },
             { text: 'Sources (GitHub)', link: 'https://github.com/arnauddupuis/hac-game-lib' }
           ]

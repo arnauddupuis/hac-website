@@ -1,8 +1,7 @@
 ---
 title: Welcome!
 lang: en-US
-lastUpdated: 2019-04-25 10:00:15
-sortOrder: 1
+lastUpdated: 2019-04-25 15:17:24
 description: Welcome to the website of the Hyrule Astronomy club, this post is an introduction to what we do.
 cover: /hero.png
 meta:
@@ -11,11 +10,12 @@ meta:
   - name: keywords
     content: hyrule astronomy club hac-game-lib python 
   - name: license
-    content: CC-by-SA-NC
+    content: CC-by-NC-SA
 sidebar: auto
 prev: false
 next: false
-tags: general
+tags: 
+  - general
 ---
 # Welcome!
 
@@ -64,6 +64,8 @@ This lead us to many interesting projects like:
 We publish most of our work and code so other kids in the world can benefit from it. There is very little requirements (apart from a computer) and we do everything with Free and Open Source softwares. All the kids are running Linux based computers and we only use FLOSS (except for KSP...).
 
 Feel free to use anything we do to expose kids (young and less young) to science, astronomy and computer engineering in a fun and entertaining way!
+
+Our work is available on [Github](https://github.com/arnauddupuis/hac-game-lib) and we also have a [Youtube channel](https://www.youtube.com/channel/UCT_SxIlKaD6MM7JlQKelpgw).
 
 ## Comments
 

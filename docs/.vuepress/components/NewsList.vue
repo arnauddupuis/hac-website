@@ -2,7 +2,7 @@
 <div>
     <div v-for="p in recentFiles" class="theorem custom-block" v-if="p.path.includes('/news/') && p.path !== '/news/'">
         <img :src='p.frontmatter.cover' class='cover' v-if='("cover" in p.frontmatter)'>
-        <p class="custom-block-title"><a :href='p.path'>{{p.title}}</a></p>
+        <p class="custom-block-title"> <p :class="p.frontmatter.icon"  v-if='("icon" in p.frontmatter)'></p> <a :href='p.path'>{{p.title}}</a></p>
         <p>{{p.frontmatter.description}}</p>
     </div>
 </div>
@@ -27,8 +27,16 @@ export default {
 			}).slice(0,5);
 
 			return files;
-		}
-	}
+        }
+    },
 }
 </script>
+
+<style scoped>
+.fas, .far {
+    color: #3eaf7c;
+    font-size: 24px;
+    padding-right: 0.4rem
+}
+</style>
 

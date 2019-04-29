@@ -1,9 +1,9 @@
 // The idea here is to make a configurable component that can display a list of markdown files modulo certain factors like the name or tags
 <template>
 <div>
-    <div v-for="p in recentFiles" class="theorem custom-block" v-if="p.path.includes('/news/') && p.path !== '/news/'">
+    <div v-for="p in recentFiles" class="theorem custom-block" v-if="p.path.includes(folder) && p.path !== folder">
         <img :src='p.frontmatter.cover' class='cover' v-if='("cover" in p.frontmatter)'>
-        <p class="custom-block-title"><a :href='p.path'>{{p.title}}</a></p>
+        <p class="custom-block-title"> <p :class="p.frontmatter.icon"  v-if='("icon" in p.frontmatter)'></p> <a :href='p.path'>{{p.title}}</a></p>
         <p>{{p.frontmatter.description}}</p>
     </div>
 </div>
@@ -14,10 +14,13 @@ export default {
 	data() {
 		return {};
 	}, 
+	props: {
+		folder: String
+	},
 	computed:{
 		recentFiles() {
 			let files = this.$site.pages.filter(p => {
-				return p.path.indexOf('/news/') >= 0;
+				return p.path.indexOf(this.folder) >= 0;
 			}).sort((a,b) => {
                 let aDate = new Date(a.frontmatter.lastUpdated).getTime();
                 let bDate = new Date(b.frontmatter.lastUpdated).getTime();
@@ -33,3 +36,10 @@ export default {
 }
 </script>
 
+<style scoped>
+.fas, .far {
+    color: #3eaf7c;
+    font-size: 24px;
+    padding-right: 0.4rem
+}
+</style>

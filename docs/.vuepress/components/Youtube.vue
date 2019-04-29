@@ -1,3 +1,4 @@
+// This trick was originally published on css-tricks: https://css-tricks.com/NetMag/FluidWidthVideo/Article-FluidWidthVideo.php
 <template>
     <div class="videoWrapper">
         <iframe width="560" height="349" :src="url" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

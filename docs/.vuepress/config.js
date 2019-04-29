@@ -3,6 +3,7 @@ module.exports = {
     description: 'Website currently in development',
     head: [
       ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Material+Icons' }],
+      ['link', { rel: 'stylesheet', href: 'https://use.fontawesome.com/releases/v5.8.1/css/all.css'}],
       ['link', { rel: 'icon', href: '/logo.png' }]
     ],
     plugins: [

@@ -14,6 +14,7 @@ meta:
 sidebar: auto
 prev: false
 next: false
+icon: far fa-newspaper
 tags: 
   - general
 ---

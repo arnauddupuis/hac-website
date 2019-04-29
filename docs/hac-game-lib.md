@@ -11,7 +11,7 @@ heroImage: https://raw.githubusercontent.com/arnauddupuis/hac-game-lib/master/im
 heroText: hac-game-lib
 tagline: Kids coding class library for a game development
 actionText: Get started 📚
-actionLink: /documentation/hac-game-lib
+actionLink: /guides/hac-game-lib/
 features:
 - title: Simple
   details: The hac-game-lib is used by developers from age 6 to 40+. It is simple to use but provides advanced mechanism for more advanced coders.

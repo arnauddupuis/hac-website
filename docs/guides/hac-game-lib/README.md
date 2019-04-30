@@ -11,7 +11,7 @@ meta:
     content: hyrule astronomy club hac-game-lib python python3 guides tutorial beginner educational kids coding games learning
   - name: license
     content: CC-by-NC-SA
-sidebar: auto
+sidebar: no
 prev: false
 next: false
 tags: 

@@ -20,7 +20,7 @@ export default {
 	computed:{
 		recentFiles() {
 			let files = this.$site.pages.filter(p => {
-				return p.path.indexOf(this.folder) >= 0;
+				return p.path.indexOf(this.folder) >= 0 && p.frontmatter.status == 'published';
 			}).sort((a,b) => {
                 let aDate = new Date(a.frontmatter.lastUpdated).getTime();
                 let bDate = new Date(b.frontmatter.lastUpdated).getTime();

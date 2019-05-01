@@ -29,6 +29,8 @@ Here is a list of the main terms commonly used in astronomy. We will try to keep
 
 ### Asterism
 
+### Apparent magnitude
+
 ### Star cluster
 
 ### Globular cluster

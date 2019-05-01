@@ -18,4 +18,4 @@ tags:
   - general
 ---
 
-<pageList folder="/news/" />
+<pageList folder="/guides/hac-game-lib/" />

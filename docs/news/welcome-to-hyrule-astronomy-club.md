@@ -8,12 +8,13 @@ meta:
   - name: Welcome!
     content: Welcome to the website of the Hyrule Astronomy club, this post is an introduction to what we do.
   - name: keywords
-    content: hyrule astronomy club hac-game-lib python 
+    content: hyrule astronomy club hac-game-lib python python3 guides tutorial beginner educational kids coding games learning
   - name: license
     content: CC-by-NC-SA
 sidebar: auto
+status: published
 prev: false
-next: false
+next: /news/meet-the-Deep-Sky-Objects-messier-3
 icon: far fa-newspaper
 tags: 
   - general

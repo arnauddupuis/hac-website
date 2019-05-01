@@ -18,9 +18,10 @@ export default {
 		folder: String
 	},
 	computed:{
+		// Source for the recentFiles base function: https://www.raymondcamden.com/2018/05/09/adding-a-recent-content-component-to-vuepress
 		recentFiles() {
 			let files = this.$site.pages.filter(p => {
-				return p.path.indexOf(this.folder) >= 0 && p.frontmatter.status == 'published';
+				return p.path.indexOf(this.folder) >= 0 && p.frontmatter.published == true;
 			}).sort((a,b) => {
                 let aDate = new Date(a.frontmatter.lastUpdated).getTime();
                 let bDate = new Date(b.frontmatter.lastUpdated).getTime();

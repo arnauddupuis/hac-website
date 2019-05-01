@@ -12,7 +12,7 @@ meta:
   - name: license
     content: CC-by-NC-SA
 sidebar: auto
-status: published
+published: true
 prev: false
 next: /news/meet-the-Deep-Sky-Objects-messier-3
 icon: far fa-newspaper
@@ -51,10 +51,10 @@ We also participate in public events like the star parties of the [San Francisco
 
 We have a regular coding class for kids from 6 to 12 (at the moment) were they learn to code in Python. In this class we do a lot of things like:
   * Python bases (types, control structures, etc.)
-  * Electronics (mostrly with breadboard, we are reluctant to let kids pointing soldering iron at each others...)
+  * Electronics (mostly with breadboard, we are reluctant to let kids pointing soldering iron at each others...)
   * Mix it all in developing things on Raspberry Pi boards (interactions with buttons, get the physical states of a components from python, etc.)
   * Orbital mechanic (Newton's though experiments, basics of orbital revolution, etc.)
-  * Game development (creation of maps, game design and logic). This one put a strong emphasis on algorithmics.
+  * Game development (creation of maps, game design and logic). This one put a strong emphasis on algorithmic.
 
 This lead us to many interesting projects like:
   * The Mission Zero Challenge [link to come]

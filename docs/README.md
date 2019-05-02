@@ -6,6 +6,8 @@ meta:
     content: Welcome to the Hyrule Astronomy Club - Website in construction
   - name: keywords
     content: hyrule astronomy club hac-game-lib python 
+  - name: google-site-verification
+    content: qa0EpXTBqv6Bw1dhkbJvjNd99wsR4-HfHlXQbBe_v1U
 home: true
 heroImage: /hero.png
 heroText: Hyrule Astronomy Club

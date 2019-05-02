@@ -52,6 +52,10 @@ module.exports = {
       ],
       lastUpdated: 'Last Updated',
     },
+    'sitemap': {
+      hostname: 'https://astro.hyrul.es',
+      outFile: 'hac-sitemap.xml'
+    },
     markdown: {
       toc: { includeLevel: [1, 2, 3] }
     }

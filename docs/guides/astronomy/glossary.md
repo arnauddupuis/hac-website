@@ -154,3 +154,11 @@ More: [Wikipedia: Sun](https://en.wikipedia.org/wiki/Sun)
 The surface brightness is equal to the [magnitude](#magnitude) divided by the apparent size of the object in the sky.  
 The bigger the number, the dimmer the object. The brighter the sky (because of light pollution), the more limiting this number is.
 
+## Enhancing the list
+
+This list is far from being exhaustive. Please feel free to suggest improvements either in the comments or even better: opening a [PR on Github](https://github.com/arnauddupuis/hac-website/compare)!
+
+## Comments
+
+<disqus />
+

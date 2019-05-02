@@ -10,7 +10,7 @@ meta:
   - name: license
     content: CC-by-NC-SA
 sidebar: auto
-status: published
+published: true
 prev: false
 next: false
 icon: fas fa-meteor
@@ -27,37 +27,56 @@ Here is a list of the main terms commonly used in astronomy. We will try to keep
 
 ## List
 
-### Asterism
+### Absolute magnitude
+
+
+
+### Amazing observation
+
+For most amateur astronomers: capturing a faint fuzzy spot of what could pass for light if it wasn't that washed out.  
+For non-astronomer: wondering where they should watch and what to look for!
 
 ### Apparent magnitude
 
-### Star cluster
+The apparent [magnitude](#magnitude) is a number that measure the brightness of an object as seen from Earth. The brighter the object the lower the number (and vice-versa). Negative magnitude is common (the Sun is -26.7 and the Moon is -12.6). 
+In astronomy, it is used as a measure of visible light emission as well as UV and infrared emission (for astro-photography).
 
-### Globular cluster
+More: [Wikipedia: Apparent magnitude](https://en.wikipedia.org/wiki/Apparent_magnitude).
 
-### Open cluster
-
-### Nebula
-
-### Galaxy
-
-### Quasar
+### Asterism
 
 ### Asteroid
 
-### Magnitude
-
-### Meteor
+### Binary star
 
 ### Comet
 
 ### Constellation
 
-### Star
+### Galaxy
 
-### Binary star
+### Globular cluster
+
+### Magnitude
+
+Magnitude is a measure of the brightness of an object in a specific spectrum. For example, visible light or infrared.  
+In astronomy we use 2 different definitions of magnitude: [absolute magnitude](#absolute-magnitude) and [apparent magnitude](#apparent-magnitude). Why two? Because one is too easy to understand!
+
+More: [Wikipedia: Magnitude](https://en.wikipedia.org/wiki/Magnitude_(astronomy)).
+
+### Meteor
+
+### Nebula
+
+### Open cluster
+
+### Quasar
 
 ### Solar system
+
+### Star
+
+### Star cluster
 
 ### Sun
 

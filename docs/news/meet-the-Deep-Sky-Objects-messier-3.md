@@ -130,4 +130,6 @@ _M3 through a 16 inches Newtonian Reflector. Credits: Arnaud Dupuis_
 
 Clear skies!
 
+## Comments
+
 <disqus />

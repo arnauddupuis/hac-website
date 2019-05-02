@@ -45,21 +45,45 @@ In astronomy, it is used as a measure of visible light emission as well as UV an
 
 More: [Wikipedia: Apparent magnitude](https://wikipedia.org/wiki/Apparent_magnitude).
 
+### Apoapsis
+
+This is the highest point of an orbit. You ascend to the apoapsis, once you pass it you fall to the [periapsis](#periapsis). Apsis means orbit in Greek.  
+If you want to be really technical and look smart at dinners, it is technically the highest distance between the barycenters of 2 orbiting bodies (Earth and a spacecraft for example).
+
 ### Asterism
+
+🚧👷🏗 ***Work in progress*** 🏗👷🚧
 
 ### Asteroid
 
+🚧👷🏗 ***Work in progress*** 🏗👷🚧
+
 ### Astronomical unit
+
+It's a unit of distance (again). This used to be defined as the distance between the [Sun](#sun) and Earth. However, this distance varies with Earth highest and lowest points (respectively aphelion and perihelion).  
+In this time and age, vague and non-precise units are not favoured by anyone (*cough* *cough* aside from the 3 countries in the world still using the imperial system of weight and measures...), so an AU (abbreviation for Astronomical Unit) is now defined precisely as 149 597 870 700 metres.
+
+More: [Wikipedia: Astronomical Unit](https://wikipedia.org/wiki/Astronomical_unit), [Apoapsis](#apoapsis), [Periapsis](#periapsis).
 
 ### Binary star
 
+🚧👷🏗 ***Work in progress*** 🏗👷🚧
+
 ### Comet
+
+🚧👷🏗 ***Work in progress*** 🏗👷🚧
 
 ### Constellation
 
+🚧👷🏗 ***Work in progress*** 🏗👷🚧
+
 ### Galaxy
 
+🚧👷🏗 ***Work in progress*** 🏗👷🚧
+
 ### Globular cluster
+
+🚧👷🏗 ***Work in progress*** 🏗👷🚧
 
 ### Magnitude
 
@@ -70,9 +94,15 @@ More: [Wikipedia: Magnitude](https://wikipedia.org/wiki/Magnitude_(astronomy)).
 
 ### Meteor
 
+🚧👷🏗 ***Work in progress*** 🏗👷🚧
+
 ### Nebula
 
+🚧👷🏗 ***Work in progress*** 🏗👷🚧
+
 ### Open cluster
+
+🚧👷🏗 ***Work in progress*** 🏗👷🚧
 
 ### Parallax
 
@@ -84,19 +114,37 @@ A parsec is a distance unit. It is equal to about 3.26 [light years](#light-year
 
 More: [Wikipedia: Parsec](https://wikipedia.org/wiki/Parsec).
 
+### Periapsis
+
+This is the lowest point of an orbit. You fall to the periapsis, once you pass it you ascend to the [apoapsis](#apoapsis). Apsis still means orbit in Greek.  
+If you want to be really technical and look even smarter at dinners, it is technically the lowest distance between the barycenters of 2 orbiting bodies (Earth and the Sun, but in this case we have special names Perigee or Perihelion).
+
 ### Quasar
+
+Quasar comes from the contraction of **quasi-stellar** object. They are extremely bright galactic cores, most of the time because of a super-massive black hole coupled with a massive gaseous accretion disk. The gravitational strength generate so much frictions that a single quasar emits a lot of energy: up to a **thousand** times the **total amount** of energy emitted by **our whole galaxy** (The Milky Way)!
 
 ### Solar system
 
+Just everything that is gravitationally bound to the [Sun](#sun). That includes the planets (Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune and not Pluto), Dwarf planets (there you go Pluto, with Makemake, Haumea and the others), comets, asteroids belt, basically everything between the Sun and the outer belt of the [Oort cloud](https://wikipedia.org/wiki/Oort_cloud).  
+The proposed boundary of the solar system is anywhere between 2 000 [AU](#astronomical-unit) and 200 000 [AU](#astronomical-unit).
+
 ### Star
+
+I just love [Wikipedia's definition](https://en.wikipedia.org/wiki/Star): A star is an astronomical object consisting of a luminous spheroid of plasma held together by its own gravity.
+
+All in all, it's a ball of gas (in a lot of case hydrogen) so gigantic that it crumbles under its own weight and light up nuclear fusion. The only thing preventing it to blow up in a cataclysmic event is its own gravitational pull.  
+It also burn tremendous amount of fuel each second, therefor radiating mass as light and heat. _See the problem here?_
+
+In case it was not clear the [Sun](#sun) is a star...
 
 ### Star cluster
 
-A group of stars usually bound by gravity. Some clusters are 
+A group of stars usually bound by gravity. Some clusters just look like clusters from Earth but are not actually pack of stars in space, it's only perspective playing its game.  
+Within the _real_ clusters you can find 2 families: the [globular star clusters](#globular-cluster) and the [open star clusters](#open-cluster).
 
 ### Sun
 
-Our good old Sun, the closest star from us.  
+Our good old Sun, the closest [star](#star) from us.  
 The star the Earth is orbiting.
 
 More: [Wikipedia: Sun](https://en.wikipedia.org/wiki/Sun)

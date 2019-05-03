@@ -35,7 +35,7 @@ If you are new to astronomy or considering the hobby (come to the dark side, we 
 
 First of all, what is an "**object**"? Well, it's basically anything that you can "see" in the night sky. It can be a star (or more often double or triple stars), a type of interstellar gas cloud, groups of stars (that we name [__clusters__](/guides/astronomy/glossary.html#star-cluster)),  planets or exoplanet, etc. Of course, not all of these objects can be seen with the naked eye. 
 
-However, you can already see some of them with the naked eye or with basic binoculars. Do not expect Hubble-like views however...
+That being said, you can already see some of them with the naked eye or with basic binoculars. Do not expect Hubble-like views however...
 
 Now that we know what an **object** is in astronomy, we can define a **deep sky object** or **DSO**. It is simply any object outside of our own [solar system](/guides/astronomy/glossary.html#solar-system).   
 You will often come across these 2 acronyms: **DSO** (Deep Sky Object) and **SSO** (Solar System Object).

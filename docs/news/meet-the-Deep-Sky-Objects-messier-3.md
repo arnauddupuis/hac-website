@@ -110,7 +110,14 @@ _Credits: <https://freestarcharts.com/messier-3>_
 In space, M3 is part of our own Milky Way galaxy and is 33 900 [light years](/guides/astronomy/glossary.html#light-year) away from Earth or 3.20719e+17 km (1.99285e+17 miles). Not an immediate destination for vacations!  
 It is also above the Galactic ecliptic by 31 600 [light years](/guides/astronomy/glossary.html#light-year) (it is 31 600 [light years](/guides/astronomy/glossary.html#light-year) above the ecliptic of the Milky Way) and 38 800 [light years](/guides/astronomy/glossary.html#light-year) from the center of our galaxy.
 
-### Interest
+### Interest / Rating
+
+<ratings :kid_score=4 :wow_score=4.5 :accessibility_score=4
+  kid_eval="An excellent object to show to kids & non astronomer."
+  wow_eval="The Wow! factor is here, it's a big bright object that non astronomer don't see everyday. Most of them are not even aware of it's existence."
+  accessibility_eval="M3 is bright and well positionned, making it a desirable target for beginners and star party."
+  overview="An excellent object to target for all kind of astronomers (represent a real challenge to sketch for seasoned astronomers) and non astronomer. We highly recomend M3!"
+/>
 
 This is clearly a very interesting object to look at. First because if nothing else, it's beautiful and most people will find it this way.  
 Second because it is relatively easy to find (when you are familiar with the night sky), and makes it an ideal target to show to kids. It is relatively bright for a DSO and therefor has a certain _WOW effect_.

@@ -77,9 +77,22 @@ More: [Wikipedia: Astronomical Unit](https://wikipedia.org/wiki/Astronomical_uni
 
 🚧👷🏗 ***Work in progress*** 🏗👷🚧
 
-### Galaxy
+### Dark matter
 
 🚧👷🏗 ***Work in progress*** 🏗👷🚧
+
+### Galaxy
+
+A galaxy is an accretion of stars, star systems, dust, interstellar gas and more importantly dark matter (allegedly). There is different types of galaxies: elliptical, spiral or irregular.  
+Galaxies comes in different size from the dwarves with merely e few hundred million stars to the hundreds of trillions of stars (like the giant [IC 1011](https://en.wikipedia.org/wiki/IC_1101)).
+
+Our home galaxy is called the [Milky Way](https://en.wikipedia.org/wiki/Milky_Way) and although it's one of the biggest of our Local Group, it is a relatively small one at the scale of the visible universe. The Milky Way is home to a super-massive black hole nicely named [Sagittarius A*](https://en.wikipedia.org/wiki/Sagittarius_A*). 
+
+Galaxies are no exceptions to the relativistic gravitational attraction and boundaries. They are grouped into local groups and then super clusters (of galaxies not stars) and distributed in the universe along filaments.  
+The Milky Way for example if gravitationally bound to about 50 galaxies from our Local Group (including Andromeda with whom we will eventually merge in a couple billion years).
+Our own local group, is part of the [Virgo Super Cluster](https://en.wikipedia.org/wiki/Virgo_Supercluster). In turn this super cluster falls toward the [Great Attractor](https://en.wikipedia.org/wiki/Great_Attractor) a gravitational anomaly at the center of [Laniakea](https://en.wikipedia.org/wiki/Laniakea_Supercluster), the local cluster of super-clusters. Feew!
+
+![NGC 4414](https://upload.wikimedia.org/wikipedia/commons/c/c3/NGC_4414_%28NASA-med%29.jpg)
 
 ### Globular cluster
 
@@ -117,6 +130,8 @@ Nice word to say: **cloud**. It's not your typical earth-like cloud, it's a clou
 Nebula are valuable targets for astronomers as they are mostly beautiful, like the pillars of creation in the Eagle Nebula for example (you need a space telescope to take that kind of photo):
 ![Eagle Nebula's pillars of creation](https://upload.wikimedia.org/wikipedia/commons/b/b2/Eagle_nebula_pillars.jpg)
 *Credits: [Wikipedia](https://en.wikipedia.org/wiki/Pillars_of_Creation)*
+
+Fun fact about the pillars of creation: they most likely have already been destroyed by a supernova explosion, but the light from that cataclysmic event will take another 1000 years to arrive at Earth.
 
 More: [Wikipedia: Nebula](https://en.wikipedia.org/wiki/Nebula)
 

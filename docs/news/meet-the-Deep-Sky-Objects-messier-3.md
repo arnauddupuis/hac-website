@@ -113,10 +113,10 @@ It is also above the Galactic ecliptic by 31 600 [light years](/guides/astronomy
 ### Interest / Rating
 
 <ratings :kid_score=4 :wow_score=4.5 :accessibility_score=4
-  kid_eval="An excellent object to show to kids & non astronomer."
-  wow_eval="The Wow! factor is here, it's a big bright object that non astronomer don't see everyday. Most of them are not even aware of it's existence."
-  accessibility_eval="M3 is bright and well positionned, making it a desirable target for beginners and star party."
-  overview="An excellent object to target for all kind of astronomers (represent a real challenge to sketch for seasoned astronomers) and non astronomer. We highly recomend M3!"
+  kid_eval="An excellent object to show to kids & non astronomers."
+  wow_eval="The Wow! factor is here, it's a big bright object that non astronomers don't see everyday. Most of them are not even aware of it's existence."
+  accessibility_eval="M3 is bright and well positioned, making it an easily findable and desirable target for beginners and star party."
+  overview="An excellent object to target for all kind of astronomers (represent a real challenge to sketch for seasoned astronomers) and non astronomers. Very interesting for star parties or observing session with kids. We highly recommend M3!"
 />
 
 This is clearly a very interesting object to look at. First because if nothing else, it's beautiful and most people will find it this way.  

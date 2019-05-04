@@ -2,7 +2,6 @@ module.exports = {
     title: 'Hyrule Astronomy Club',
     description: 'Website currently in development',
     head: [
-      ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Material+Icons' }],
       ['link', { rel: 'stylesheet', href: 'https://use.fontawesome.com/releases/v5.8.1/css/all.css'}],
       ['link', { rel: 'stylesheet', href: '/css/loading-bar.css'}],
       ['link', { rel: 'stylesheet', href: "https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css"}],

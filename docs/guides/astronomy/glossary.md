@@ -79,7 +79,14 @@ More: [Wikipedia: Astronomical Unit](https://wikipedia.org/wiki/Astronomical_uni
 
 ### Dark matter
 
-🚧👷🏗 ***Work in progress*** 🏗👷🚧
+Easy: we don't know anything about it! Well, aside from the fact that:
+ 1. It exists (most probably).
+ 2. It account for about 85% of our universe mass.
+ 3. It does not interact with light and other electromagnetic radiations.
+ 4. It does not interact with "normal" matter except through gravity (it is therefor probably non-baryonic matter).
+ 5. It holds galaxies together.
+
+That's about the extend of what we know. If you are interested to know more, have a look at [Wikipedia's page](https://en.wikipedia.org/wiki/Dark_matter).
 
 ### Galaxy
 

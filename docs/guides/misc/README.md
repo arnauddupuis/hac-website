@@ -18,3 +18,5 @@ Here you will find the complete list of all guides and tutorial we publish relat
 ## List
 
 <pageList folder='/guides/misc/' />
+
+<ratings :kid_score=4 :wow_score=4 :accessibility_score=3 />

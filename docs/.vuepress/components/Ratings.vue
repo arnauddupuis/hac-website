@@ -105,7 +105,7 @@ export default {
     color: white;
 }
 .ldBar-label:after {
-    content: " / 5";
+    content: "";
 }
 
 #info {

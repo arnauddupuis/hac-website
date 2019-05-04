@@ -6,6 +6,9 @@
         <p class="custom-block-title"> <p :class="p.frontmatter.icon"  v-if='("icon" in p.frontmatter)'></p> <a :href='p.path'>{{p.title}}</a></p>
         <p>{{p.frontmatter.description}}</p>
     </div>
+	<div class="nothing" v-if='recentFiles.length === 0'>
+		There is nothing here yet.
+	</div>
 </div>
 </template>
 
@@ -30,7 +33,7 @@ export default {
 				if(diff < 0) return 1;
 				return 0;
 			}).slice(0,5);
-
+			console.log(files.length)
 			return files;
 		}
 	}

@@ -83,7 +83,14 @@ More: [Wikipedia: Astronomical Unit](https://wikipedia.org/wiki/Astronomical_uni
 
 ### Globular cluster
 
-🚧👷🏗 ***Work in progress*** 🏗👷🚧
+A globular cluster is a huge group of (a lot of) stars that are tightly bound by gravity. This bond is what gives them this sphere shape. They contains a lot more star than [open clusters](#open-cluster) as we count them not in thousands but **hundreds of thousands**!  
+Globular clusters orbit the center of the galaxies (or *galactic core*). Scientific estimates a number of about 200 for the Milky Way, but our "*nearest*" galactic neighbor, Andromeda (3.36 millions [light year](#light-year) away) hold about 500 of them, and Messier 87 (the galaxy from which we recently snapped a picture of a black hole) has around 13 000 globular clusters!  
+Globular cluster's stars are also very ancient, they are some of the first stars in the galaxies.
+
+On a side note, they make excellent targets for amateur astronomers.
+
+![M80](https://upload.wikimedia.org/wikipedia/commons/6/6a/A_Swarm_of_Ancient_Stars_-_GPN-2000-000930.jpg)
+Credits and more: [Wikipedia: Globular cluster](https://en.wikipedia.org/wiki/Globular_cluster)
 
 ### Light year
 
@@ -96,6 +103,7 @@ Magnitude is a measure of the brightness of an object in a specific spectrum. Fo
 In astronomy we use 2 different definitions of magnitude: [absolute magnitude](#absolute-magnitude) and [apparent magnitude](#apparent-magnitude). Why two? Because one is too easy to understand!
 
 More: [Wikipedia: Magnitude](https://wikipedia.org/wiki/Magnitude_(astronomy)).
+
 
 ### Meteorite
 
@@ -114,7 +122,8 @@ More: [Wikipedia: Nebula](https://en.wikipedia.org/wiki/Nebula)
 
 ### Open cluster
 
-An open cluster is a group (not more than a few thousands) of [stars](#star) born from the same [star nursery](#star-nursery). They are loosely bound by gravity but this bound is relatively easily disrupted by encounters with other massive objects (like other clusters or gas clouds).
+An open cluster is a group (not more than a few thousands) of [stars](#star) born from the same [star nursery](#star-nursery). They are loosely bound by gravity but this bound is relatively easily disrupted by encounters with other massive objects (like other clusters or gas clouds).  
+Open clusters are found in the disk of galaxies, further away from the center than their [globular](#globular-cluster) counterpart.
 
 The most well know open cluster is the Pleiades cluster:
 ![Pleiades](https://upload.wikimedia.org/wikipedia/commons/4/4e/Pleiades_large.jpg)

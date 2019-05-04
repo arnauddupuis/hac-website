@@ -85,6 +85,11 @@ More: [Wikipedia: Astronomical Unit](https://wikipedia.org/wiki/Astronomical_uni
 
 🚧👷🏗 ***Work in progress*** 🏗👷🚧
 
+### Light year
+
+It's the distance crossed by the light in one year. Light travels roughly at 300 000 kilometers per second.  
+1 light year is equal to 9.46 x 10^12 km (or 5.88 x 10^12 mi).
+
 ### Magnitude
 
 Magnitude is a measure of the brightness of an object in a specific spectrum. For example, visible light or infrared.  
@@ -92,17 +97,30 @@ In astronomy we use 2 different definitions of magnitude: [absolute magnitude](#
 
 More: [Wikipedia: Magnitude](https://wikipedia.org/wiki/Magnitude_(astronomy)).
 
-### Meteor
+### Meteorite
 
-🚧👷🏗 ***Work in progress*** 🏗👷🚧
+A piece of space debris that falls on a planet or moon and survive the passage through the atmosphere. 
+
+When it encounter the atmosphere it transforms into a **meteor** (mostly because of frictions with the atmosphere). A meteor is commonly known as a *shooting star*.
 
 ### Nebula
 
-🚧👷🏗 ***Work in progress*** 🏗👷🚧
+Nice word to say: **cloud**. It's not your typical earth-like cloud, it's a cloud of dust, hydrogen, helium and some other gas (mostly ionized by stars or stars remnants).  
+Nebula are valuable targets for astronomers as they are mostly beautiful, like the pillars of creation in the Eagle Nebula for example (you need a space telescope to take that kind of photo):
+![Eagle Nebula's pillars of creation](https://upload.wikimedia.org/wikipedia/commons/b/b2/Eagle_nebula_pillars.jpg)
+*Credits: [Wikipedia](https://en.wikipedia.org/wiki/Pillars_of_Creation)*
+
+More: [Wikipedia: Nebula](https://en.wikipedia.org/wiki/Nebula)
 
 ### Open cluster
 
-🚧👷🏗 ***Work in progress*** 🏗👷🚧
+An open cluster is a group (not more than a few thousands) of [stars](#star) born from the same [star nursery](#star-nursery). They are loosely bound by gravity but this bound is relatively easily disrupted by encounters with other massive objects (like other clusters or gas clouds).
+
+The most well know open cluster is the Pleiades cluster:
+![Pleiades](https://upload.wikimedia.org/wikipedia/commons/4/4e/Pleiades_large.jpg)
+Credits: [Wikipedia](https://en.wikipedia.org/wiki/Pleiades)
+
+More: [Wikipedia: Open Cluster](https://en.wikipedia.org/wiki/Open_cluster)
 
 ### Parallax
 
@@ -123,10 +141,14 @@ If you want to be really technical and look even smarter at dinners, it is techn
 
 Quasar comes from the contraction of **quasi-stellar** object. They are extremely bright galactic cores, most of the time because of a super-massive black hole coupled with a massive gaseous accretion disk. The gravitational strength generate so much frictions that a single quasar emits a lot of energy: up to a **thousand** times the **total amount** of energy emitted by **our whole galaxy** (The Milky Way)!
 
+There is a lot more to say about quasars, I encourage you to read the [Wikipedia page](https://en.wikipedia.org/wiki/Quasar).
+
 ### Solar system
 
 Just everything that is gravitationally bound to the [Sun](#sun). That includes the planets (Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune and not Pluto), Dwarf planets (there you go Pluto, with Makemake, Haumea and the others), comets, asteroids belt, basically everything between the Sun and the outer belt of the [Oort cloud](https://wikipedia.org/wiki/Oort_cloud).  
 The proposed boundary of the solar system is anywhere between 2 000 [AU](#astronomical-unit) and 200 000 [AU](#astronomical-unit).
+
+Keep in mind that the vast majority of the solar system is still uncharted territory. 
 
 ### Star
 
@@ -141,6 +163,11 @@ In case it was not clear the [Sun](#sun) is a star...
 
 A group of stars usually bound by gravity. Some clusters just look like clusters from Earth but are not actually pack of stars in space, it's only perspective playing its game.  
 Within the _real_ clusters you can find 2 families: the [globular star clusters](#globular-cluster) and the [open star clusters](#open-cluster).
+
+### Star nursery
+
+A Star nursery is a huge interstellar cloud where stars are born. This type of cloud is specific because it is dense and large enough to allow hydrogen to create molecules of hydrogen (H2).  
+The molecules of hydrogen locally aggregates and collapse into stars.
 
 ### Sun
 

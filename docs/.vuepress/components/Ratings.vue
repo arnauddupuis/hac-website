@@ -103,6 +103,8 @@ export default {
 
 .ldBar-label {
     color: white;
+    font-weight: bold;
+    font-size: 30px;
 }
 .ldBar-label:after {
     content: "";

@@ -50,7 +50,7 @@ Ironically, this is now the most common catalog to go through when one seriously
 
 _TL;DR:_ **Messier** is the name of a past scientist and of a **deep sky objects** catalog.
 
-For more a more complete definition list, please see our very own [Glow-ssary](/guides/astronomy/glossary) (ahah...).
+For a more complete list of definitions, please see our very own [Glow-ssary](/guides/astronomy/glossary) (ahah...).
 
 ## Messier 3
 

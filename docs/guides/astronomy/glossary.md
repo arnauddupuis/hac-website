@@ -52,7 +52,12 @@ If you want to be really technical and look smart at dinners, it is technically 
 
 ### Asterism
 
-🚧👷🏗 ***Work in progress*** 🏗👷🚧
+An asterism is what everybody calls a [constellation](#constellation): a popular and well known imaginary pattern that you can see in the apparent organization of the stars in the sky.  
+For example: the big dipper in Ursa Major.
+![Big Dipper](https://upload.wikimedia.org/wikipedia/commons/3/37/Plough_big_dipper.svg)
+*Credits & more: [Wikipedia](https://en.wikipedia.org/wiki/Asterism_(astronomy))*
+
+There is many asterism in many night lore like the [Aboriginal astronomy](https://en.wikipedia.org/wiki/Australian_Aboriginal_astronomy), [Islamic astronomy](https://en.wikipedia.org/wiki/Astronomy_in_the_medieval_Islamic_world), [Chinese constellation](https://en.wikipedia.org/wiki/Chinese_constellation) or [Nakshatra](https://en.wikipedia.org/wiki/Nakshatra).
 
 ### Asteroid
 
@@ -75,7 +80,15 @@ More: [Wikipedia: Astronomical Unit](https://wikipedia.org/wiki/Astronomical_uni
 
 ### Constellation
 
-🚧👷🏗 ***Work in progress*** 🏗👷🚧
+That's a bit of a tricky one! The first meaning of *constellation* is coming from its latin root: a set of stars.  
+But in 1928, the [International Astronomical Union](https://en.wikipedia.org/wiki/International_Astronomical_Union) officially adopted a list of 88 modern constellations. And the definition is slightly different from the initial "Look at the stars they look like a frying pan!".  
+Now the constellations are sky boundaries (that still contains the imaginary pattern we see in the stars) that split the night sky. Here is what a map of the constellations look like:
+![Constellations](https://upload.wikimedia.org/wikipedia/commons/d/d4/Constellations_ecliptic_equirectangular_plot.svg)
+*Credit: [Wikipedia](https://en.wikipedia.org/wiki/Constellation)*
+
+Of course, the Ursa Major constellation still contains the Ursa Major [asterism](#asterism) (and the big dipper, by extension).
+
+For the pretty imaginary patterns, see the definition of [asterism](#asterism).
 
 ### Dark matter
 

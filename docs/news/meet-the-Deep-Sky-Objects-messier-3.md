@@ -76,7 +76,7 @@ _Credits: both images are from the Hubble Space Telescope and are hosted on Wiki
 You have to take in consideration that Charles only had 100mm of telescope aperture (4 inches)! This is literally nothing compared to modern astronomy!  
 As a comparison, here is a sketch of M3 through a 12 inches telescope (3 times bigger than Messier's):
 
-![M3 through a 12 inches telescope](../.vuepress/public/images/DSO/M3_asod.jpg)
+![M3 through a 12 inches telescope](/images/DSO/M3_asod.jpg)
 
 _Credits: Astronomy Sketch of the Day: [Messier 3](http://www.asod.info/?p=14902)_
 

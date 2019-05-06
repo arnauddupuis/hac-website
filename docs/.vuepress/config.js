@@ -27,6 +27,8 @@ module.exports = {
         before: info => `<div class="theorem"><p class="title">${info}</p>`,
         after: '</div>',
       }],
+      ['@vuepress/back-to-top'],
+      ['@vuepress/medium-zoom'],
     ],
     themeConfig: {
       nav: [

@@ -29,7 +29,7 @@ Here is a list of the main terms commonly used in astronomy. We will try to keep
 
 ### Absolute magnitude
 
-The absolute magnitude is the [apparent magnitude](#apparent-magnitude) of an object seen from 10 [parsecs](#parsec) or 32.6 [light years](#light-year) unobstructed by anything (particularly interstellar gas & dust clouds).
+The absolute magnitude is the [apparent magnitude](#apparent-magnitude) of an object seen from 10 [parsecs](#parsec) or 32.6 [light years](#light-year) away, unobstructed by anything (particularly interstellar gas & dust clouds).
 
 More: [Wikipedia: Absolute magnitude](https://wikipedia.org/wiki/Absolute_magnitude).
 
@@ -48,7 +48,7 @@ More: [Wikipedia: Apparent magnitude](https://wikipedia.org/wiki/Apparent_magnit
 ### Apoapsis
 
 This is the highest point of an orbit. You ascend to the apoapsis, once you pass it you fall to the [periapsis](#periapsis). Apsis means orbit in Greek.  
-If you want to be really technical and look smart at dinners, it is technically the highest distance between the barycenters of 2 orbiting bodies (Earth and a spacecraft for example).
+If you want to be really technical and look smart at dinners, it is technically the highest distance between the [barycenter](#barycenter) of 2 orbiting bodies (Earth and a spacecraft for example).
 
 ### Asterism
 
@@ -111,11 +111,11 @@ Of course, this is really simplified, go see the [Wikipedia page](https://en.wik
 
 ### Comet
 
-A comet is a [solar system](#solar-system) that is orbiting the [Sun](#sun) in eccentric elliptical orbit. If you are picturing an egg like ice ball with green and pink hairs you are spot on!  
+A comet is a [solar system](#solar-system) object that is orbiting the [Sun](#sun) in eccentric elliptical orbit. If you are picturing an egg-like ball of ice with green and pink hairs you are spot on!  
 or are you? **Eccentric**, means that it is not really on the same plane than the rest of the planets and [asteroids](#asteroid). This plane is called the ecliptic.  
-**Elliptical**, means that it looks more like an egg and not a nice round shape.
+**Elliptical**, means that its orbit looks more like an egg than a nicely done circle.
 
-When comets come closer to the they evaporate and that is what we call the tails. Comets have 2 tails. One is made of dust and trail behind the comet in a mostly curved path. The other is made of gas and is mostly going straight away from the [Sun](#sun).
+When comets come closer to the [Sun](#sun) they evaporate and it generates tails. Comets have 2 tails. One is made of dust and trail behind the comet in a mostly curved path. The other is made of gas and is mostly going straight away from the [Sun](#sun).
 
 ![comet](https://upload.wikimedia.org/wikipedia/commons/5/5d/Comet_Parts.svg)
 *Credits and more: [Wikipedia](https://en.wikipedia.org/wiki/Comet)*

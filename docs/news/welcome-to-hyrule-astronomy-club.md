@@ -45,7 +45,7 @@ Many things! From astronomy to coding passing by electronic, robotics and engine
 
 We are often gathering for star gazing nights to observe the night sky in a variety of situations. From the naked eye observation of the Moon and constellations to the close up observation of globular clusters or galaxies in a 408mm (16") telescope, we enjoy the raw beauty of the universe.
 
-We also participate in public events like the star parties of the [San Francisco Amateur Astronomers](https://www.sfaa-astronomy.org/) where the youngest of us enjoy the conferences (last one - at the time of this article redaction - was on exoplanets) and stargazing and the eldest kids in the gang set up telescopes and sho the general public objects of their choices.
+We also participate in public events like the star parties of the [San Francisco Amateur Astronomers](https://www.sfaa-astronomy.org/) where the youngest of us enjoy the conferences (last one - at the time of this article redaction - was on exoplanets) and stargazing and the eldest kids in the gang set up telescopes and show the general public objects of their choices.
 
 ### Coding
 

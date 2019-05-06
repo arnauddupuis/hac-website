@@ -61,7 +61,10 @@ There is many asterism in many night lore like the [Aboriginal astronomy](https:
 
 ### Asteroid
 
-🚧👷🏗 ***Work in progress*** 🏗👷🚧
+The definition for asteroid is pretty broad: anything that orbit the [Sun](#sun) and that is not a well defined planet and does not have the characteristics of a [comet](#comet). Particularly: they do not evaporate when they get closer to the [Sun](#sun).  
+This lead to differentiate the asteroids from the inner [solar system](#solar-system) from the objects of the outer solar system, or as it is called (another occasion to shine during dinners with big words): the trans-neptunian objects (everything that is further than Neptune).
+
+Asteroids usually often refers to the objects in the [asteroid belt](https://en.wikipedia.org/wiki/Asteroid_belt) and on Jupiter's orbit (the ones that haven't been cleared from existence by Jupiter gravitational pull at least...).
 
 ### Astronomical unit
 
@@ -70,13 +73,52 @@ In this time and age, vague and non-precise units are not favoured by anyone (*c
 
 More: [Wikipedia: Astronomical Unit](https://wikipedia.org/wiki/Astronomical_unit), [Apoapsis](#apoapsis), [Periapsis](#periapsis).
 
+### Barycenter
+
+In geometry the barycenter of a figure is its center. In astronomy it's almost the same but also slightly different... It's the center of something at least!  
+It's actually the center of masses. That is to say that 2 (or more) bodies that revolve around each other (like Earth and the Sun), actually revolve around a point in between these 2 bodies. The position of the point depends on the mass of the bodies (hence the name: center of mass).  
+The actual definition is [a bit more complex](https://en.wikipedia.org/wiki/Center_of_mass)...
+
+The barycenter of 2 bodies of same size is in between them:  
+![barycenter](https://upload.wikimedia.org/wikipedia/commons/7/73/Orbit1.gif)
+
+The barycenter of 2 bodies with widely different mass is a lot closer to the most massive one:  
+![barycenter](https://upload.wikimedia.org/wikipedia/commons/f/f2/Orbit2.gif)
+
+To the point (like with Earth and the Sun), that it's *inside* the most massive body:  
+![barycenter](https://upload.wikimedia.org/wikipedia/commons/5/5a/Orbit4.gif)
+
+Fun fact: the barycenter can be external to all bodies:  
+![barycenter](https://upload.wikimedia.org/wikipedia/commons/0/0e/Orbit5.gif)
+
+*All animation are from [Wikipedia](https://en.wikipedia.org/wiki/Barycenter)*
+
 ### Binary star
 
-🚧👷🏗 ***Work in progress*** 🏗👷🚧
+Can you guess? It's of course, 2 stars orbiting each others. Well, actually they are orbiting their [barycenter](#barycenter). The life of binary stars is not boring at all: 
+ 1. they form, 
+ 2. orbit each others, 
+ 3. then one starts to vampirise the other, 
+ 4. the vampirised one blow into a supernovae,
+ 5. the vampire grow into a red giant and then
+ 6. explode into a supernova!
+
+All that is left is a neutron star, which is a collapsed core of star. That is the most massive type of star known to date (aside from black hole).
+
+Some binary stars are actually visual double stars: they look like double stars but this is just luck alignment of 2 stars in the same field of view. They are not close to each other in space.
+
+Of course, this is really simplified, go see the [Wikipedia page](https://en.wikipedia.org/wiki/Binary_star) for more accurate information and cool animations.
 
 ### Comet
 
-🚧👷🏗 ***Work in progress*** 🏗👷🚧
+A comet is a [solar system](#solar-system) that is orbiting the [Sun](#sun) in eccentric elliptical orbit. If you are picturing an egg like ice ball with green and pink hairs you are spot on!  
+or are you? **Eccentric**, means that it is not really on the same plane than the rest of the planets and [asteroids](#asteroid). This plane is called the ecliptic.  
+**Elliptical**, means that it looks more like an egg and not a nice round shape.
+
+When comets come closer to the they evaporate and that is what we call the tails. Comets have 2 tails. One is made of dust and trail behind the comet in a mostly curved path. The other is made of gas and is mostly going straight away from the [Sun](#sun).
+
+![comet](https://upload.wikimedia.org/wikipedia/commons/5/5d/Comet_Parts.svg)
+*Credits and more: [Wikipedia](https://en.wikipedia.org/wiki/Comet)*
 
 ### Constellation
 

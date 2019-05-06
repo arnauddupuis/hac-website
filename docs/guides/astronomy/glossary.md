@@ -57,7 +57,7 @@ For example: the big dipper in Ursa Major.
 ![Big Dipper](https://upload.wikimedia.org/wikipedia/commons/3/37/Plough_big_dipper.svg)
 *Credits & more: [Wikipedia](https://en.wikipedia.org/wiki/Asterism_(astronomy))*
 
-There is many asterism in many night lore like the [Aboriginal astronomy](https://en.wikipedia.org/wiki/Australian_Aboriginal_astronomy), [Islamic astronomy](https://en.wikipedia.org/wiki/Astronomy_in_the_medieval_Islamic_world), [Chinese constellation](https://en.wikipedia.org/wiki/Chinese_constellation) or [Nakshatra](https://en.wikipedia.org/wiki/Nakshatra).
+There is many asterisms in many night lore like the [Aboriginal astronomy](https://en.wikipedia.org/wiki/Australian_Aboriginal_astronomy), [Islamic astronomy](https://en.wikipedia.org/wiki/Astronomy_in_the_medieval_Islamic_world), [Chinese constellation](https://en.wikipedia.org/wiki/Chinese_constellation) or [Nakshatra](https://en.wikipedia.org/wiki/Nakshatra).
 
 ### Asteroid
 

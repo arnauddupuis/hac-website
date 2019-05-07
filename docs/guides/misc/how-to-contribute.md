@@ -77,7 +77,7 @@ It is located in [docs/guides/astronomy/glossary.md](https://github.com/arnauddu
 Once you are here, click on the pencil, as shown on this screenshot:  
 ![03](/images/guides/misc/Contributing/03.png)
 
-This will do 2 things: clone the repository (create an instance for you) and let you edit the file in the online editor.  
+This will do 3 things: fork the repository (create an instance for you), create a new branch for your changes and let you edit the file in the online editor.  
 The Github editor will warn you that you are making changes to a file in a repository you don't hav access to. Github will take care of all the git actions for you: cloning, create a branch, etc.  
 The editor is somewhat rudimentary but allows you to edit the file directly:
 

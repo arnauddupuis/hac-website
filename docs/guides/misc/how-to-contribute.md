@@ -1,5 +1,5 @@
 ---
-title: "How to contribute"
+title: "How to contribute to the website"
 lang: en-US
 lastUpdated: 2019-05-06 18:51:05
 description: A guide on how to help the Hyrule Astronomy club by contributing small changes or entire articles to the website.
@@ -20,7 +20,7 @@ tags:
   - contributing
 ---
 
-# How to contribute
+# How to contribute to the website
 
 🚧👷 **A video tutorial is going to be added shortly** 👷🚧
 

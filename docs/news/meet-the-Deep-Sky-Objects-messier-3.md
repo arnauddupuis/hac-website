@@ -25,7 +25,7 @@ tags:
 
 ## Introduction
 
-First post of our series Meet the Deep Sky Objects (MtDSO) on Messier 3 Globular Cluster. We will cover some basics of DSO observation and get details on one specific object in our articles. 
+First post of our series *Meet the Deep Sky Objects* (MtDSO) on Messier 3 Globular Cluster. We will cover some basics of DSO observation and get details on one specific object in our articles. 
 
 One important point: the list is certainly really long but ours is going to be shorter. The good reason? We will only talk about the objects we have actually observed and sketched!
 

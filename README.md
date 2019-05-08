@@ -1,28 +1,25 @@
 # hac-website - Hyrule Astronomy Club website
 
+This website uses VueJS, Vuepress and Yarn. The real dependency is yarn.
+
 ## Project setup
 ```
-npm install
+yarn install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+yarn docs:dev
 ```
 
 ### Compiles and minifies for production
 ```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
+yarn docs:build
 ```
 
 ### Lints and fixes files
 ```
-npm run lint
+yarn lint
 ```
 
 ### Customize configuration

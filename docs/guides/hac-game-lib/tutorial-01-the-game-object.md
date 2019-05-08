@@ -32,10 +32,10 @@ By the end of these tutorials you will be able to do all that by yourself, but r
 ## hac-game-lib
 
 To follow this tutorial you will need the hac-game-lib on your system.  
-You can either get it on [Github](https://github.com/arnauddupuis/hac-game-lib) or install it from PyPi by running:
+You can either get it on [Github](https://github.com/arnauddupuis/hac-game-lib) or (this is the preferred solution) install it from PyPi by running:
 
 ``` bash
-pip3 install virtualenv
+pip3 install virtualenv --user
 virtualenv hacgl-tutorial-1
 cd hacgl-tutorial-1
 source bin/activate

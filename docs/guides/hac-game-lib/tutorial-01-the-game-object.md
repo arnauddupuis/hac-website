@@ -1,5 +1,5 @@
 ---
-title: 'HAC Tutorial - 01: The Game object'
+title: 'HAC Tutorial #01: The Game object'
 lang: en-US
 lastUpdated: 2019-04-30 19:04:10
 description: First tutorial on the hac-game-lib. We will learn about the game object and how critical it is to game management.
@@ -20,7 +20,7 @@ tags:
   - python
 ---
 
-# HAC Tutorial - 01: The Game object
+# HAC Tutorial #01: The Game object
 
 ## Introduction
 
@@ -35,8 +35,15 @@ To follow this tutorial you will need the hac-game-lib on your system.
 You can either get it on [Github](https://github.com/arnauddupuis/hac-game-lib) or install it from PyPi by running:
 
 ``` bash
+pip3 install virtualenv
+virtualenv hacgl-tutorial-1
+cd hacgl-tutorial-1
+source bin/activate
+pip3 install colorama
 pip3 install -i https://test.pypi.org/simple/ hac-game-lib
 ```
+
+For some reasons the dependencies seems to be skipped on Test PyPi.
 
 ## Video
 

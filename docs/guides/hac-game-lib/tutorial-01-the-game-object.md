@@ -29,6 +29,15 @@ The [Game] object is key to game management. It does **a lot** of things behind 
 
 By the end of these tutorials you will be able to do all that by yourself, but right now it ease the learning curve to rely on some (hopefully) robust pre-existing logic.
 
+## hac-game-lib
+
+To follow this tutorial you will need the hac-game-lib on your system.  
+You can either get it on [Github](https://github.com/arnauddupuis/hac-game-lib) or install it from PyPi by running:
+
+``` bash
+pip3 install -i https://test.pypi.org/simple/ hac-game-lib
+```
+
 ## Video
 
 This first tutorial is done under the form of a code along video available on Youtube (a bad one but bear with us, it'll become better over time).
@@ -36,6 +45,8 @@ This first tutorial is done under the form of a code along video available on Yo
 <youtube url="https://www.youtube.com/embed/CygRW942274" />
 
 ## Code
+
+Here is the final code of this tutorial.
 
 ``` python
 from gamelib.Game import Game

@@ -12,7 +12,7 @@ meta:
 sidebar: auto
 published: true
 prev: false
-next: false
+next: /guides/hac-game-lib/tutorial-02-player-movements.html
 icon: fas fa-code-branch
 tags: 
   - hac-game-lib

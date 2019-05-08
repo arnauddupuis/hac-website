@@ -1,6 +1,14 @@
 // The idea here is to make a configurable component that can display a list of markdown files modulo certain factors like the name or tags
 <template>
 <div>
+	<!-- <div class="hac_card_container">
+		<div class='hac_card'>
+			Test 1
+		</div>
+		<div class='hac_card'>
+			Test 2
+		</div>
+	</div> -->
     <div v-for="p in recentFiles" class="theorem custom-block" v-if="p.path.includes(folder) && p.path !== folder">
         <img :src='p.frontmatter.cover' class='cover' v-if='("cover" in p.frontmatter)'>
         <p class="custom-block-title"> <p :class="p.frontmatter.icon"  v-if='("icon" in p.frontmatter)'></p> <a :href='p.path'>{{p.title}}</a></p>
@@ -46,4 +54,16 @@ export default {
     font-size: 24px;
     padding-right: 0.4rem
 }
+
+/* .hac_card_container {
+	display: flex
+}
+.hac_card {
+  	width: 50%;
+	height: 20rem;
+	background-color: #ff0000;
+  	border-radius: 0.4rem;
+	padding: 0.4rem;
+	margin: 0.1rem;
+} */
 </style>

@@ -1,7 +1,7 @@
 ---
 title: 'HAC Tutorial #02: Player movements'
 lang: en-US
-lastUpdated: 2019-05-07 18:44:01
+lastUpdated: '2019-03-30 18:44:01'
 description: 'Second part of our game tutorial. This time about the player movements. In this tutorial we will learn about that and more game management.'
 cover: /images/site/youtube.png
 meta:

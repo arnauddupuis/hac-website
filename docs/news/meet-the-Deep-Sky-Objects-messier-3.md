@@ -1,7 +1,7 @@
 ---
 title: Meet the Deep Sky Objects - Messier 3
 lang: en-US
-lastUpdated: 2019-04-30 19:04:10
+lastUpdated: '2019-04-30 19:04:10'
 description: First post of our series Meet the Deep Sky Objects (DSO) on Messier 3 Globular Cluster.
 cover: /images/DSO/M3_HAC-Sketch.jpg
 meta:

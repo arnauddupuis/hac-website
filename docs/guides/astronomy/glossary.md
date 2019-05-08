@@ -1,7 +1,7 @@
 ---
 title: Astronomy glow-ssary 
 lang: en-US
-lastUpdated: 2019-04-30 19:04:10
+lastUpdated: '2019-04-30 19:04:10'
 description: A glossary of the main terms used in astronomy.
 cover: https://cdn.britannica.com/60/190760-131-F1576E0B.jpg
 meta:

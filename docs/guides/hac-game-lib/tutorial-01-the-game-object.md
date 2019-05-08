@@ -1,7 +1,7 @@
 ---
 title: 'HAC Tutorial #01: The Game object'
 lang: en-US
-lastUpdated: 2019-04-30 19:04:10
+lastUpdated: '2019-03-26 19:04:10'
 description: First tutorial on the hac-game-lib. We will learn about the game object and how critical it is to game management.
 cover: /images/site/youtube.png
 meta:

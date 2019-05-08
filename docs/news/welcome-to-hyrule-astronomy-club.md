@@ -1,7 +1,7 @@
 ---
 title: Welcome!
 lang: en-US
-lastUpdated: 2019-04-25 15:17:24
+lastUpdated: '2019-04-25 15:17:24'
 description: Welcome to the website of the Hyrule Astronomy club, this post is an introduction to what we do.
 cover: /hero.png
 meta:

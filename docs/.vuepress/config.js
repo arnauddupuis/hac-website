@@ -5,7 +5,8 @@ module.exports = {
       ['link', { rel: 'stylesheet', href: 'https://use.fontawesome.com/releases/v5.8.1/css/all.css'}],
       ['link', { rel: 'stylesheet', href: '/css/loading-bar.css'}],
       ['link', { rel: 'stylesheet', href: "https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css"}],
-      ['link', { rel: 'icon', href: '/logo.png' }]
+      ['link', { rel: 'icon', href: '/logo.png' }],
+      ['link', { rel: 'manifest', href: '/manifest.json' }],
     ],
     plugins: [
       [ 

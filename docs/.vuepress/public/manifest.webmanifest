@@ -1,0 +1,13 @@
+{
+    "name": "Hyrule Astronomy Club",
+    "short_name": "HAC",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#fff",
+    "description": "The webapp for the Hyrule Astronomy Club website.",
+    "icons": [{
+      "src": "/hero.png",
+      "sizes": "585x832",
+      "type": "image/png"
+    }]
+  }

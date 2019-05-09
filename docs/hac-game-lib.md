@@ -3,13 +3,13 @@ title: Home
 lang: en-US
 meta:
   - name: description
-    content: A Python library for simple game development
+    content: 'A Python library for learning simple game development'
   - name: keywords
     content: hyrule astronomy club hac-game-lib python 
 home: true
 heroImage: https://raw.githubusercontent.com/arnauddupuis/hac-game-lib/master/images/base_game.gif
 heroText: hac-game-lib
-tagline: A Python library for simple game development
+tagline: 'A Python library for learning simple game development'
 actionText: Get started 📚
 actionLink: /guides/hac-game-lib/
 features:

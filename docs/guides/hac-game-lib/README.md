@@ -2,7 +2,7 @@
 title: hac-game-lib guides
 lang: en-US
 lastUpdated: 2019-05-01 18:04:19
-description: Welcome to the website of the Hyrule Astronomy club, this post is an introduction to what we do.
+description: Resources on the python hac-game-lib.
 cover: /hero.png
 meta:
   - name: keywords

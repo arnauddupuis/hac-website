@@ -269,7 +269,14 @@ The bigger the number, the dimmer the object. The brighter the sky (because of l
 
 ## Enhancing the list
 
-This list is far from being exhaustive. Please feel free to suggest improvements either in the comments or even better: opening a [PR on Github](https://github.com/arnauddupuis/hac-website/compare)!
+This list is far from being exhaustive. Please feel free to suggest improvements either in the comments or even better: opening a [PR on Github](https://github.com/arnauddupuis/hac-website/compare)!  
+If you never heard of a pull request but still want to help, we have [a tutorial for you](/guides/misc/how-to-contribute.html)!
+
+## Share
+
+If you like that content, feel free to share it on social platforms:
+
+<social />
 
 ## Comments
 

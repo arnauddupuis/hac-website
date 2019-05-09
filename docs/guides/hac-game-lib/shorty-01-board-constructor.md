@@ -89,6 +89,12 @@ myboard.display()
 
 ```
 
+## Share
+
+If you like that content, feel free to share it on social platforms:
+
+<social />
+
 ## Comments
 
 <disqus />

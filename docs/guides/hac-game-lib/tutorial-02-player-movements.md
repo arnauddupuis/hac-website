@@ -99,6 +99,15 @@ while True:
     time.sleep(0.1)
 ```
 
+## Share
+
+If you like that content, feel free to share it on social platforms:
+
+<social />
+
+## Comments
+
+<disqus />
 
 
 

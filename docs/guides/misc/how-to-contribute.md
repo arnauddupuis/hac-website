@@ -191,6 +191,12 @@ All the discussion is done on Github in the comments of your pull request.
 
 When it's accepted it is then merged into the master branch of the main repository and will be automatically published on the website.
 
+## Share
+
+If you like that content, feel free to share it on social platforms:
+
+<social />
+
 ## Comments
 
 <disqus />

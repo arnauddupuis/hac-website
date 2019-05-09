@@ -69,6 +69,12 @@ Feel free to use anything we do to expose kids (young and less young) to science
 
 Our work is available on [Github](https://github.com/arnauddupuis/hac-game-lib) and we also have a [Youtube channel](https://www.youtube.com/channel/UCT_SxIlKaD6MM7JlQKelpgw).
 
+## Share
+
+If you like that content, feel free to share it on social platforms:
+
+<social />
+
 ## Comments
 
 <disqus />

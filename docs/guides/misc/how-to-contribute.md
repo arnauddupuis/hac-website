@@ -22,7 +22,9 @@ tags:
 
 # How to contribute to the website
 
-🚧👷 **A video tutorial is going to be added shortly** 👷🚧
+## Video
+
+<youtube url="https://www.youtube.com/embed/6-5scq6BRFo" />
 
 ## Introduction
 

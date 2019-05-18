@@ -36,10 +36,9 @@ You can either get it on [Github](https://github.com/arnauddupuis/hac-game-lib) 
 
 ``` bash
 pip3 install virtualenv --user
-virtualenv hacgl-tutorial-1
-cd hacgl-tutorial-1
+virtualenv hgl-tutorial-1
+cd hgl-tutorial-1
 source bin/activate
-pip3 install colorama
 pip3 install -i https://test.pypi.org/simple/ hac-game-lib
 ```
 

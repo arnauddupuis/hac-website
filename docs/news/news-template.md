@@ -1,8 +1,8 @@
 ---
-title: TITLE
+title: "TITLE"
 lang: en-US
 lastUpdated: '2019-04-30 19:04:10'
-description: DESCRIPTION
+description: "DESCRIPTION"
 cover: /hero.jpg
 meta:
   - name: keywords
@@ -10,6 +10,7 @@ meta:
   - name: license
     content: CC-by-NC-SA
 sidebar: auto
+# For the article to be listed published has to be true.
 published: false
 # Relative path to previous or next article. false if not related to anything.
 prev: /news/welcome-to-hyrule-astronomy-club

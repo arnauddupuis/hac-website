@@ -22,5 +22,9 @@ yarn docs:build
 yarn lint
 ```
 
+### Attributions
+
+[Flat folded newspaper icon](https://www.vexels.com/vectors/preview/130458/flat-folded-newspaper-icon) |  designed by Vexels
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).

@@ -14,7 +14,7 @@ meta:
 sidebar: auto
 published: true
 prev: /news/welcome-to-hyrule-astronomy-club
-next: false
+next: /news/hac-game-lib-may-2019-update.html
 icon: fas fa-meteor
 tags: 
   - general

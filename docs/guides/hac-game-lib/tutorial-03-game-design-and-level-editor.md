@@ -29,6 +29,7 @@ I sincerely hope you will appreciate this one, I tried to dramatically increase 
 
 Most of the tutorial is in the video, in the article you will find:
  * The hac-game-lib installation instructions. 
+ * A reference for the commands used in the video.
  * The level designed in the video.
  * The instructions to make it available to your own editor. 
 
@@ -130,6 +131,8 @@ If you ran hgl-editor.py at least once, this folder is going to exist in your hg
 ## Conclusion
 
 That's about it. I hope you liked it, feel free to share your feedback and/or the level you designed in the comments.
+
+I'll see you for the Shorty #3, where we are going to see how to load the level designed with the hgl-editor and use it in a game.
 
 ## Share
 

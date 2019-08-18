@@ -248,3 +248,13 @@ Making a rather technical discipline like astronomy understandable by kids is al
 I feel like kids gives me that simple connection to raw enjoyment.
 
 Hopefully that guide gave you the information you needed. Organizing a star party for kids is a very different exercise than doing it with your fellow astronomers. They need to be engaged, interested and it requires a lot more preparations. However, it's really enriching, it's a blast to hear them gasp at the wonders of our universe and who knows: you might generate vocations and you might even learn stuff while preparing it!
+
+## Share
+
+If you like that content, feel free to share it on social platforms:
+
+<social />
+
+## Comments
+
+<disqus />

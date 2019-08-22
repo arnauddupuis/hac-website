@@ -98,9 +98,10 @@ Before going to the step by step guide, I want to make sure that you get a fact 
 
 First of all, preparation. There is one simple and easy to remember rule: do it by yourself. Unfortunately, kids don't care about the art of collimation or star alignment. While you set up the observatory, your partner in crime should take care of the second important thing: feed the kids. Unless they have been fed before. In all case make sure they are not hungry. You don't want apple sauce to fall on your primary mirror, trust me...
 
-Before setting up your telescope(s) their is an even more important thing to do: prepare the night! Decide beforehand of your targets, research them so you have enough material to tickle their curiosity. It's going to be very very important!  
-Research facts and anecdotes that you think are interesting to them. We usually know everything there is to know about our favorite objects down to there NGC code, but kids won't care about that kind of over technical information. They will however enjoy rather advanced explanations as long as they understand it and they are interested in it.  
-I have to quote from Einstein that apply here:  
+Before setting up your telescope(s) there is an even more important thing to do: prepare the night!  
+Decide beforehand of your targets, research them so you have enough material to tickle their curiosity. It's going to be very very important!  
+Research facts and anecdotes that you think are interesting to them. We usually know everything there is to know about our favorite objects down to their NGC code, but kids won't care about that kind of over technical information. They will however enjoy rather advanced explanations as long as they understand it and they are interested in it.  
+I have two quotes from Einstein that apply here:  
 > If you can't explain it simply, you don't understand it well enough.
 
 And of course:  
@@ -115,7 +116,7 @@ Think about replacements, you could miss a target for many reasons: the tree in 
 ![Observation Planner](/images/guides/astronomy/star_party/kstar_observation_planner.png)
 *KStars observation planner window*
 
-I personally find softwares like KStars extremely useful for that. The observation planner is exactly what I need, for 2 reasons:
+I personally find softwares like [KStars](https://edu.kde.org/kstars/) extremely useful for that. KStars' observation planner is exactly what I need, for 2 reasons:
  1. It gives you all information you need about time, position, observation window, etc.
  2. The "What's up Tonight" wizard gives you a list of target per your criteria.
 
@@ -164,7 +165,7 @@ Oh, one last thing: you should know and anticipate that nothing is going to go a
 Now that you are prepared, it's time: kids are here, maybe parents too (in my case when it's in my backyard there is also a sleepover... and I wonder why I'm not phased by horror movies...) and they are all looking at you for an exciting night of Universe related delights! Hopefully the crowd is controlled: not more than 10~15 persons or you'll need more telescope.  
 Your first job is to introduce the night: we are going to look at space stuff with our naked eye and a telescope. No conference needed here, just the basics.  
 Then start with the boring stuff: rules! Be nice but firm, make it clear that these rules are absolute and no one is exempt. Make it particularly clear that the laser rule apply to adults too! You really don't want someone's dad or mum to accidentally discover that (s)he has no talent for laser eye surgery in *your* backyard with *your* laser...  
-Ho, and if parents are around, remind everyone that the rules are here for safety and equipment price reasons, you'll get instant attention from parents!
+Oh, and if parents are around, remind everyone that the rules are here for safety and equipment price reasons, you'll get instant attention from parents!
 **Rules apply to everyone.**
 
 Once, that part out of the way it's time to respect rule #8: enjoy! I suggest to start with a quiz, usually here are some of my questions and answers:
@@ -174,10 +175,10 @@ Once, that part out of the way it's time to respect rule #8: enjoy! I suggest to
     **A:** Whatever the answers congratulate them, you want them to think! So of course from our point of view (and unless you have access to a giant or space telescope), the answer is going to be: The Moon, SSO (planets mainly for tonight), near DSO (objects inside the Milky Way) like clusters and nebulae and finally galaxies. Take that occasion to add that the only objects that we are going to see that are outside of our own galaxy are other galaxies.
  3. **Q:** Talking about distance, do you know how we measure distances in space?  
     **A:** We use light years and it measure a distance not a time. It is the distance travelled by light in the vacuum of space for a whole year. And light travels fast: about 300 000 km/s!
- 3. (bis) **Q:** Can you think of something cool about that? Like: how do you see and what does it means when we look at something 2.5M light-years away from us?
-    **A:** We are looking in the past! Because lights takes time to arrive to Earth, we see galaxies like they were millions of years ago! So tonight we travel in time and distance!
+ 3. **Q:** Can you think of something cool about that? Like: how do you see and what does it means when we look at something 2.5M light-years away from us?  
+    **A:** We are looking in the past! Because lights takes time to arrive to Earth, we see galaxies like they were millions of years ago! So tonight we travel in time *and* space!
  4. **Q:** So how far is the Moon in your opinion?  
-    **A:** It's one light second away, approximately 300 000 km.
+    **A:** It's one light second away, approximately 380 000 km.
  5. **Q:** And what about the Sun?  
     **A:** It's much farther: 8 light minutes away or almost 150 millions km.
  6. **Q:** What is the biggest object in the Solar System?  
@@ -206,7 +207,7 @@ Once everybody is dressed up, give them red lights if you have some spares. You 
 
 ### Dark adaptation
 
-Dark adaptation is a tricky moment, at a star party with fellow astronomer you'd be eating or drinking coffee while talking to your friends but here it's not an option. Yet, kids have to be dark adapted or they won't see a thing. That's where the scavenger hunt comes in handy:  
+Dark adaptation is a tricky moment. At a star party with fellow astronomer you'd be eating or drinking coffee while talking to your friends but here it's not an option. Yet, kids have to be dark adapted or they won't see a thing. That's where the scavenger hunt comes in handy:  
 Get them to find constellations (asterisms really but I'll let that one slide ^^) in the sky. Do not help them to much, the goal is to last between 15 and 20 minutes to get a decent adaptation. You can do your own thing or use a pre-made one, like that one:  
 [https://www.reallifeathome.com/printable-star-gazing-scavenger-hunt/](https://www.reallifeathome.com/printable-star-gazing-scavenger-hunt/)
 
@@ -229,12 +230,12 @@ Get them engaged as they are observing: what do you see? Do you see that feature
 Help them to see: explain averted vision in simple terms. Like: look just next to it you'll get more details.
 
 Finally, here is a very brief list of objects recommendation (it's non exhaustive, depend on the time of the year and completly personnal, I'm interested in your own list):
- * Planets: you take it, during summer Jupiter and Saturn are sure hit. Mars is a good candidate too.
+ * Planets: Anything between Mercury and Jupiter, during summer Jupiter and Saturn are sure hit. Mars is a good candidate too.
  * Stars: Mizar & Alcor (double double), Albireo or Cor Caroli (double stars). Antares, T Lyrae or R Leo for the red stars.
  * Open Clusters: M11 (Wild Duck), NGC 869 & 884 (The Double Cluster) you pick one there is so many. The Pleiades are a good candidate if visible.
  * Globular Clusters: M13 of course but really both Hercules globular clusters are good, M3, M5 or M22 are all excellent candidates.
  * Nebulae: M57 (Ring Nebulae), The super novae remnant in Cygnus (Veil Nebula), The Lagoon and the Trifid (M8 & M20), M27 (the Dumbbell). Do not forget the filters! Oh and if it's up, finish by M42 ;-)
- * Galaxies: M106 or M31 are sure to show up and provide a decent spectacle. If you are in a dark site M51 and M101 (Whirlpool and Pinwheel) are awesome but wash out really quickly in moderate light pollution. M104 (the Sombrero) is also a good candidate as well as Leo's triplet.
+ * Galaxies: M106 or M31 are sure to provide a decent spectacle. If you are in a dark site M51 and M101 (Whirlpool and Pinwheel) are awesome but wash out really quickly in moderate light pollution. M104 (the Sombrero) is also a good candidate as well as Leo's triplet.
 
 Nebulae are a good moment to talk about the stars life cycle. They will be very interested in knowing that most nebulae are actually star explosion remnant, and the Veil Nebula makes it for a very good *wow moment* given its size.
 

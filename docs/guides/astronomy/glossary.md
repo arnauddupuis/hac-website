@@ -159,7 +159,7 @@ Our own local group, is part of the [Virgo Super Cluster](https://en.wikipedia.o
 ### Globular cluster
 
 A globular cluster is a huge group of (a lot of) stars that are tightly bound by gravity. This bond is what gives them this sphere shape. They contains a lot more star than [open clusters](#open-cluster) as we count them not in thousands but **hundreds of thousands**!  
-Globular clusters orbit the center of the galaxies (or *galactic core*). Scientific estimates a number of about 200 for the Milky Way, but our "*nearest*" galactic neighbor, Andromeda (3.36 millions [light year](#light-year) away) hold about 500 of them, and Messier 87 (the galaxy from which we recently snapped a picture of a black hole) has around 13 000 globular clusters!  
+Globular clusters orbit the center of the galaxies (or *galactic core*). Scientific estimates a number of about 200 for the Milky Way, but our "*nearest*" galactic neighbor, Andromeda (2.5 millions [light year](#light-year) away) hold about 500 of them, and Messier 87 (the galaxy from which we recently snapped a picture of a black hole) has around 13 000 globular clusters!  
 Globular cluster's stars are also very ancient, they are some of the first stars in the galaxies.
 
 On a side note, they make excellent targets for amateur astronomers.

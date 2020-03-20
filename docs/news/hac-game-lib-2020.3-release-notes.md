@@ -1,8 +1,8 @@
 ---
-title: "hac-game-lib - May 2019 update"
+title: "hac-game-lib - 2020.3 - Release notes"
 lang: en-US
-lastUpdated: '2019-05-26 18:16:01'
-description: "What's new in the May 2019 test release of the hac-game-lib."
+lastUpdated: '2020-03-19 18:39:10'
+description: "Release notes of the hac-game-lib release version 2020.3."
 cover: /images/site/newspaper-circle.svg
 meta:
   - name: keywords
@@ -13,8 +13,8 @@ sidebar: auto
 # For the article to be listed published has to be true.
 published: true
 # Relative path to previous or next article. false if not related to anything.
-prev: /news/meet-the-Deep-Sky-Objects-messier-3.html
-next: /news/hac-game-lib-2020.3-release-notes.html
+prev: /news/hac-game-lib-may-2019-update.html
+next: false
 # An icon from FontAwesome
 icon: fas fa-code-branch
 # pick one or two
@@ -23,9 +23,9 @@ tags:
   - python
 ---
 
-# hac-game-lib - May 2019 update
+# hac-game-lib - 2020.3 - Release notes
 
-![hac-game-lib version](https://img.shields.io/badge/Version-2019.5a6-blue.svg)
+![hac-game-lib version](https://img.shields.io/badge/Version-2020.3-blue.svg)
 
 ## Introduction
 

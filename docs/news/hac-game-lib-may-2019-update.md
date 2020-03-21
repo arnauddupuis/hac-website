@@ -14,7 +14,7 @@ sidebar: auto
 published: true
 # Relative path to previous or next article. false if not related to anything.
 prev: /news/meet-the-Deep-Sky-Objects-messier-3.html
-next: /news/hac-game-lib-2020.3-release-notes.html
+next: /news/hac-game-lib-v1.0.0-release-notes.html
 # An icon from FontAwesome
 icon: fas fa-code-branch
 # pick one or two

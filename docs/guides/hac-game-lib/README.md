@@ -27,7 +27,7 @@ Here you will find the complete list of all guides and tutorial we publish relat
 Official documentation: [ReadTheDocs](https://hac-game-lib.readthedocs.io/en/latest/index.html)  
 Code repository: [Github](https://github.com/arnauddupuis/hac-game-lib)  
 Youtube channel: [Hyrule Astronomy Club](https://www.youtube.com/channel/UCT_SxIlKaD6MM7JlQKelpgw?&ab_channel=HyruleAstronomyClub)  
-PyPi Test (no official release on PyPi yet): [hac-game-lib](https://test.pypi.org/project/hac-game-lib/)  
+PyPi Test: [hac-game-lib](https://pypi.org/project/hac-game-lib/)  
 
 ## List of guides
 

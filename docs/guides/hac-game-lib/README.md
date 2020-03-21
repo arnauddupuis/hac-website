@@ -1,7 +1,7 @@
 ---
 title: hac-game-lib guides
 lang: en-US
-lastUpdated: 2019-05-01 18:04:19
+lastUpdated: 2020-03-21 11:33:16
 description: Resources on the python hac-game-lib.
 cover: /hero.png
 meta:

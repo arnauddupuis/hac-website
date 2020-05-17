@@ -14,7 +14,7 @@ sidebar: auto
 published: true
 # Relative path to previous or next article. false if not related to anything.
 prev: /news/hac-game-lib-may-2019-update.html
-next: false
+next: /news/hac-game-lib-v1.0.1-release-notes.html
 # An icon from FontAwesome
 icon: fas fa-code-branch
 # pick one or two

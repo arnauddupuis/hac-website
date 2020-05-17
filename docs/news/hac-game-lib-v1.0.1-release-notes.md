@@ -11,7 +11,7 @@ meta:
     content: CC-by-NC-SA
 sidebar: auto
 # For the article to be listed published has to be true.
-published: false
+published: true
 # Relative path to previous or next article. false if not related to anything.
 prev: /news/hac-game-lib-v1.0.0-release-notes.html
 next: false
@@ -23,9 +23,9 @@ tags:
   - python
 ---
 
-# hac-game-lib - v1.0.0 - Release notes
+# hac-game-lib - v1.0.1 - Release notes
 
-![hac-game-lib version](https://img.shields.io/badge/Version-1.0.0-blue.svg)
+![hac-game-lib version](https://img.shields.io/badge/Version-1.0.1-blue.svg)
 
 ## Introduction
 
@@ -74,7 +74,7 @@ and sessions handling in the upcoming releases.
 #### The strings calamity
 
 Another major massive improvement for the code overall quality was the introduction of flake8 validation. That lead us to 
-fragment the strings over multiple lines of code. And this in turn resulted in less than optimal display uin the editor
+fragment the strings over multiple lines of code. And this in turn resulted in less than optimal display in the editor
 and the default displays of the library in general (extra spaces, dubious indentation, etc.).
 
 This is (hopefully) completely back to normal in that release.

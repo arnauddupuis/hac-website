@@ -14,7 +14,7 @@ sidebar: auto
 published: true
 # Relative path to previous or next article. false if not related to anything.
 prev: /news/hac-game-lib-v1.0.0-release-notes.html
-next: false
+next: /news/hac-game-lib-v1.1.0-release-notes.html
 # An icon from FontAwesome
 icon: fas fa-code-branch
 # pick one or two
@@ -38,12 +38,12 @@ Let's see what it looks like in more details.
 
 ### Statistics
 
-| Item              | Data |
-|:-----------------:|-----:|
-| *Files changed* | 9   |
-| *Additions*     | 307  |
-| *Deletions*     | 133   |
-| *Commits*       | 15   |
+|      Item       | Data |
+| :-------------: | ---: |
+| *Files changed* |    9 |
+|   *Additions*   |  307 |
+|   *Deletions*   |  133 |
+|    *Commits*    |   15 |
 
 The full list is available on [Github](https://github.com/arnauddupuis/hac-game-lib/compare/v1.0.0...v1.0.1).
 
